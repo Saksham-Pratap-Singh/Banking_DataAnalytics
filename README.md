@@ -46,6 +46,11 @@ A comprehensive banking analytics solution that simulates real-world data challe
 - Transaction Success Rate & Currency Distribution
 - Account Type Performance (Savings vs Current)
 
+##  👨‍💻 Author
+### Saksham Pratap Singh
+Final Year ECE Student | Data Analytics & ML Enthusiast
+📧 sakshamraghav14@gmail.com | 📍 Agra, India
+
 ## 🚀 Quick Start
 
 ```bash
